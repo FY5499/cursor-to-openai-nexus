@@ -118,7 +118,6 @@ function chunkToUtf8String(chunk) {
 
         const content = response?.message?.content
         if (content !== undefined){
-          //results.push(content)
           //console.log(content)
         }
         
